@@ -20,4 +20,6 @@ Recursos en español para aprender a programar en C++.
 
 ## Videos
 
+[Programación de Jueguitos con Framework 2D](https://www.youtube.com/watch?v=b16rgLIf8I4&list=PLhQjrBD2T383Vx9-4vJYFsJbvZ_D17Qzh)
+
 ## Blogs
